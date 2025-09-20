@@ -1,11 +1,11 @@
 const currentYear = new Date().getFullYear();
 const data = {
     sitename: "Bartrix",
-    sitetagline: "Something great is on the way! ✨ 🔥",
+    sitetagline: "Trade skills not cash",
     siteurl: "/",
     sitelogo: "",
     title: "Coming Soon!",
-    description: "We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅. Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.",
+    description: "BARTRIX represents a revolutionary approach to skill exchange that addresses the growing demand for accessible, community-driven learning by positioning talent as currency and eliminating financial barriers to education",
     newsletterheading: "Stay tuned for our live updates!",
     copyrightText: `Copyright © ${currentYear}`,
     socialIconsHeading: "Follow Us 📣",

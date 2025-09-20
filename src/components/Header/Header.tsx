@@ -17,7 +17,7 @@ function Header() {
             rel="noopener noreferrer"
           >
             <div className="flex flex-col text-center">
-              <h1 className="text-2xl uppercase lgtext-4xl text-sky-400/100 font-semibold	">
+              <h1 className="text-6xl uppercase lgtext-4xl text-sky-400/100 font-semibold	">
                 {sitename}
               </h1>
               <p className="text-xl font-xl m-2 text-slate-800 dark:text-slate-100">
